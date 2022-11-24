@@ -1,0 +1,19 @@
+@charset "utf8";
+/* Regra @chardet caso haja problemas com acentuação */
+
+body{
+background-color: lightgoldenrodyellow;
+color:chocolate;
+font-size: 12pt;
+font-family: Arial;
+}
+
+h1{
+    color:brown
+}
+
+a{
+    color:brown;
+    text-decoration: none;
+}
+/*parei na pagina 10/13*/
